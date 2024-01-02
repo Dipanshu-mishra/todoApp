@@ -1,7 +1,7 @@
 {
   "name": "todoapp",
   "version": "0.1.0",
-  "homepage": "https://<Dipanshu-mishra>.github.io/<todoApp>",
+  "homepage": "https://Dipanshu-mishra.github.io/todoApp",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
